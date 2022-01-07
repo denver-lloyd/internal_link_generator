@@ -1,0 +1,8 @@
+Type: Jupyter Notebook Extension
+Compatibility:
+Name: Link Generator
+Main: main.js
+Link: README.md
+Description: Automatically generate links to all section with a link back to the summary/introduction cell
+Parameters:
+- None
